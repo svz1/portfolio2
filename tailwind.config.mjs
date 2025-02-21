@@ -24,7 +24,7 @@ export default {
 				hover: "#00e187", 
 			},
   			background: 'var(--background)',
-  			foreground: 'var(--foreground)'
+  			foreground: 'var(--foreground)',
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
