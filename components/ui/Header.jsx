@@ -5,7 +5,7 @@ const Header = () => {
   return (
 
    <header className='py-8 xl:py-12 text-white bg-pink-50/20'>
-<div className="container mx-auo">header</div>
+<div className="container mx-auo">headerr</div>
 
    </header>
   )
